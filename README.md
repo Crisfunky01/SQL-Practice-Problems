@@ -3,6 +3,7 @@
 🧩 DESCRIPTION / DESCRIPCIÓN
 
 EN
+
 This repository contains my personal solutions to the introductory exercises from the book SQL Practice Problems by Sylvia Moestl Vasilik.
 The book includes a total of 57 real-world SQL challenges ranging from beginner to advanced level, designed to build strong analytical and querying skills through a hands-on, problem-solving approach.
 
@@ -12,6 +13,7 @@ Each query is written, tested, and documented with bilingual notes to strengthen
 The intermediate and advanced exercises are in progress and will be added as they are completed.
 
 ES
+
 Este repositorio contiene mis soluciones personales a los ejercicios introductorios del libro SQL Practice Problems de Sylvia Moestl Vasilik.
 El libro incluye un total de 57 desafíos SQL de la vida real, que abarcan desde el nivel inicial hasta el avanzado, diseñados para desarrollar habilidades sólidas en análisis y escritura de consultas mediante un enfoque práctico.
 
@@ -97,24 +99,21 @@ INNER JOIN
 ## 🧾 DISCLAIMER / AVISO
 
 EN
+
 This repository does not reproduce or distribute the content of the book. It contains only my own solutions and learning notes based on the exercises proposed by the author.
 All rights to the original material belong to Sylvia Moestl Vasilik.
 This project is for educational and professional portfolio purposes only.
 
 ES
+
 Este repositorio no reproduce ni distribuye el contenido del libro. Contiene únicamente mis soluciones y apuntes personales basados en los ejercicios propuestos por la autora.
 Todos los derechos del material original pertenecen a Sylvia Moestl Vasilik.
 Este proyecto tiene fines educativos y de portafolio profesional.
 ## 👤 AUTHOR / AUTOR
 
-EN
-Cristian Salinas Serrano
-www.ingsalinas.com
+**Cristian Salinas** — Industrial Engineer & Data Analyst  
 
-“Data, Strategy & Results.”
+🔗 **LinkedIn:** [https://www.linkedin.com/in/ingcrissalinas/](https://www.linkedin.com/in/ingcrissalinas/)  
+🌐 **Portfolio:** [https://www.ingsalinas.com/](https://www.ingsalinas.com/)  
+📂 **GitHub:** [https://github.com/Crisfunky01](https://github.com/Crisfunky01)
 
-ES
-Cristian Salinas Serrano
-www.ingsalinas.com
-
-“Data, Strategy & Results.”
