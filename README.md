@@ -6,7 +6,6 @@
   <img src="assets/SQL%20Practice%20Problem.gif" alt="SQL Practice Problems Preview" width="700"/>
 </p>
 
-
 🧩 DESCRIPTION / DESCRIPCIÓN
 
 EN
@@ -123,6 +122,7 @@ Este proyecto tiene fines educativos y de portafolio profesional.
 🔗 **LinkedIn:** [https://www.linkedin.com/in/ingcrissalinas/](https://www.linkedin.com/in/ingcrissalinas/)  
 🌐 **Portfolio:** [https://www.ingsalinas.com/](https://www.ingsalinas.com/)  
 📂 **GitHub:** [https://github.com/Crisfunky01](https://github.com/Crisfunky01)
+
 
 
 
