@@ -27,6 +27,17 @@ Actualmente, este repositorio incluye los primeros 19 ejercicios introductorios,
 Cada consulta está escrita, probada y documentada con notas bilingües para reforzar la comprensión y la aplicación profesional de SQL.
 
 Los ejercicios de nivel intermedio y avanzado están en proceso y serán añadidos a medida que se completen.
+
+---
+
+<p align="center">
+  <img src="assets/Foto1.jpg" alt="SQL Practice Problems Book Cover" width="450"/>
+</p>
+
+---
+
+
+
 ## ⚙️ TOOLS / HERRAMIENTAS
 
 EN
@@ -122,6 +133,7 @@ Este proyecto tiene fines educativos y de portafolio profesional.
 🔗 **LinkedIn:** [https://www.linkedin.com/in/ingcrissalinas/](https://www.linkedin.com/in/ingcrissalinas/)  
 🌐 **Portfolio:** [https://www.ingsalinas.com/](https://www.ingsalinas.com/)  
 📂 **GitHub:** [https://github.com/Crisfunky01](https://github.com/Crisfunky01)
+
 
 
 
