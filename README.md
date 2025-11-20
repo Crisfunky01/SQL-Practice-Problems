@@ -1,6 +1,6 @@
+<h1 align="center">📘 SQL Practice Problems – Solutions Repository (Introductory Level)</h1>
+<h3 align="center">Repositorio de Soluciones SQL Practice Problems – Nivel Introductorio</h3>
 
-####📘**SQL Practice Problems – Solutions Repository (Introductory Level)**  
-**Repositorio de Soluciones SQL Practice Problems – Nivel Introductorio**
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/T%20SQL-red?style=flat&logo=databricks&logoColor=white"/>
@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/last%20commit-november-brightgreen?style=flat"/>
   <img src="https://img.shields.io/badge/repo%20size-2.3%20MiB-blue?style=flat"/>
 </p>
-
 
 <p align="center">
   <img src="assets/SQL%20Practice%20Problem.gif" alt="SQL Practice Problems Preview" width="700"/>
@@ -142,6 +141,7 @@ Este proyecto tiene fines educativos y de portafolio profesional.
 🔗 **LinkedIn:** [https://www.linkedin.com/in/ingcrissalinas/](https://www.linkedin.com/in/ingcrissalinas/)  
 🌐 **Portfolio:** [https://www.ingsalinas.com/](https://www.ingsalinas.com/)  
 📂 **GitHub:** [https://github.com/Crisfunky01](https://github.com/Crisfunky01)
+
 
 
 
