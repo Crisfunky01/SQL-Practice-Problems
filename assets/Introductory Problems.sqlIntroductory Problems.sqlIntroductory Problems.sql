@@ -259,7 +259,7 @@ JOIN Suppliers ON Products.SupplierID = Suppliers.SupplierID
 --Obtiene el nombre del producto desde la tabla Products.
 
 --Suppliers.CompanyName AS Supplier	
---Get the supplier’s name from Suppliers, and rename it as Supplier.
+--Get the supplierÂ’s name from Suppliers, and rename it as Supplier.
 --Obtiene el nombre del proveedor desde Suppliers, y lo renombra como Supplier.
 
 --FROM Products
