@@ -55,8 +55,8 @@ Below are the main SQL scripts included (or planned) for this repository:
 |------|--------------|
 | `assets/SQLPracticeProblems_SQLServer_PracticeDBSetup.sql` | Script to create and configure the Northwind practice database in SQL Server. |
 | `assets/Introductory Problems.sql` | Solutions for introductory-level exercises (1–19). |
-| `assets/Intermediate Problems.sql` | *In progress — contains intermediate-level problems (20–38).* |
-| `assets/Advanced Problems.sql` | *In progress — contains advanced-level problems (39–57).* |
+| `assets/Intermediate Problems.sql` | *In progress — contains intermediate-level problems (20–31).* |
+| `assets/Advanced Problems.sql` | *In progress — contains advanced-level problems (32–57).* |
 
 **ES**  
 A continuación se detallan los principales archivos SQL incluidos (o planificados) en este repositorio:  
@@ -65,8 +65,8 @@ A continuación se detallan los principales archivos SQL incluidos (o planificad
 |----------|--------------|
 | `assets/SQLPracticeProblems_SQLServer_PracticeDBSetup.sql` | Script para crear y configurar la base de datos Northwind de práctica en SQL Server. |
 | `assets/Introductory Problems.sql` | Soluciones de los ejercicios de nivel introductorio (1–19). |
-| `assets/Intermediate Problems.sql` | *En progreso — contiene los ejercicios de nivel intermedio (20–38).* |
-| `assets/Advanced Problems.sql` | *En progreso — contiene los ejercicios de nivel avanzado (39–57).* |
+| `assets/Intermediate Problems.sql` | *En progreso — contiene los ejercicios de nivel intermedio (20–31).* |
+| `assets/Advanced Problems.sql` | *En progreso — contiene los ejercicios de nivel avanzado (32–57).* |
 
 ---
 
@@ -166,6 +166,7 @@ Este proyecto tiene fines educativos y de portafolio profesional.
 🔗 **LinkedIn:** [https://www.linkedin.com/in/ingcrissalinas/](https://www.linkedin.com/in/ingcrissalinas/)  
 🌐 **Portfolio:** [https://www.ingsalinas.com/](https://www.ingsalinas.com/)  
 📂 **GitHub:** [https://github.com/Crisfunky01](https://github.com/Crisfunky01)
+
 
 
 
