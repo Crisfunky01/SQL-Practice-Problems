@@ -1,7 +1,11 @@
-SQL Practice Problems – Solutions Repository (Introductory Level)
-Repositorio de Soluciones SQL Practice Problems – Nivel Introductorio
+### 📘 PROJECT TITLE / TÍTULO DEL PROYECTO  
+**SQL Practice Problems – Solutions Repository (Introductory Level)**  
+**Repositorio de Soluciones SQL Practice Problems – Nivel Introductorio**
 
-<p align="center"> <img src="/SQL-Practice-Problems/assets/SQL Practice Problem.gif" alt="SQL Practice Problems Preview" width="700"/> </p>
+<p align="center">
+  <img src="assets/SQL%20Practice%20Problem.gif" alt="SQL Practice Problems Preview" width="700"/>
+</p>
+
 
 🧩 DESCRIPTION / DESCRIPCIÓN
 
@@ -119,5 +123,6 @@ Este proyecto tiene fines educativos y de portafolio profesional.
 🔗 **LinkedIn:** [https://www.linkedin.com/in/ingcrissalinas/](https://www.linkedin.com/in/ingcrissalinas/)  
 🌐 **Portfolio:** [https://www.ingsalinas.com/](https://www.ingsalinas.com/)  
 📂 **GitHub:** [https://github.com/Crisfunky01](https://github.com/Crisfunky01)
+
 
 
