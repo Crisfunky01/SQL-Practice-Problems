@@ -67,113 +67,100 @@ Las próximas actualizaciones incluirán los ejercicios del nivel avanzado y not
 Below are the main SQL scripts included (or planned) for this repository:  
 
 | File | Description |
-|------|--------------|
+|------|-------------|
 | `assets/SQLPracticeProblems_SQLServer_PracticeDBSetup.sql` | Script to create and configure the Northwind practice database in SQL Server. |
 | `assets/Introductory Problems.sql` | Solutions for introductory-level exercises (1–19). |
-| `assets/Intermediate Problems.sql` | *In progress — contains intermediate-level problems (20–31).* |
-| `assets/Advanced Problems.sql` | *In progress — contains advanced-level problems (32–57).* |
+| `assets/Intermediate Problems.sql` | ✅ Completed — contains intermediate-level problems (20–31). |
+| `assets/Advanced Problems.sql` | 🔄 In progress — contains advanced-level problems (32–57). |
 
 **ES**  
 A continuación se detallan los principales archivos SQL incluidos (o planificados) en este repositorio:  
 
 | Archivo | Descripción |
-|----------|--------------|
+|----------|-------------|
 | `assets/SQLPracticeProblems_SQLServer_PracticeDBSetup.sql` | Script para crear y configurar la base de datos Northwind de práctica en SQL Server. |
 | `assets/Introductory Problems.sql` | Soluciones de los ejercicios de nivel introductorio (1–19). |
-| `assets/Intermediate Problems.sql` | *En progreso — contiene los ejercicios de nivel intermedio (20–31).* |
-| `assets/Advanced Problems.sql` | *En progreso — contiene los ejercicios de nivel avanzado (32–57).* |
+| `assets/Intermediate Problems.sql` | ✅ Completado — contiene los ejercicios de nivel intermedio (20–31). |
+| `assets/Advanced Problems.sql` | 🔄 En progreso — contiene los ejercicios de nivel avanzado (32–57). |
 
 ---
 
-
 ## ⚙️ TOOLS / HERRAMIENTAS
 
-EN
+**EN**  
+- Microsoft SQL Server Express  
+- SQL Server Management Studio (SSMS)  
+- Northwind sample database  
 
-Microsoft SQL Server Express
+**ES**  
+- Microsoft SQL Server Express  
+- SQL Server Management Studio (SSMS)  
+- Base de datos de ejemplo Northwind  
 
-SQL Server Management Studio (SSMS)
+---
 
-Northwind sample database
-
-ES
-
-Microsoft SQL Server Express
-
-SQL Server Management Studio (SSMS)
-
-Base de datos de ejemplo Northwind
 ## 📚 CONTENT / CONTENIDO
 
-EN
+**EN**  
+- `basic_queries.sql` → Solutions for introductory problems (1–19)  
+- `intermediate_queries.sql` → ✅ Completed (20–31)  
+- `advanced_queries.sql` → 🔄 In progress  
+- `/assets/preview.png` → Optional screenshot of SQL results  
 
-basic_queries.sql → Solutions for introductory problems (1–19)
+**ES**  
+- `basic_queries.sql` → Soluciones para los ejercicios introductorios (1–19)  
+- `intermediate_queries.sql` → ✅ Completado (20–31)  
+- `advanced_queries.sql` → 🔄 En progreso  
+- `/assets/preview.png` → Captura opcional de resultados SQL  
 
-/assets/preview.png → Optional screenshot of SQL results
+---
 
-intermediate_queries.sql → In progress
-
-advanced_queries.sql → In progress
-
-ES
-
-basic_queries.sql → Soluciones para los ejercicios introductorios (1–19)
-
-/assets/preview.png → Captura opcional de resultados SQL
-
-intermediate_queries.sql → En progreso
-
-advanced_queries.sql → En progreso
 ## 🧠 TOPICS / TEMAS
 
-EN
+**EN**  
+SELECT, FROM, WHERE  
+Logical operators (AND, OR)  
+Pattern matching with LIKE  
+ORDER BY  
+Aggregate functions (COUNT, MIN, MAX)  
+GROUP BY and HAVING  
+Aliases and calculated columns  
+INNER JOIN  
+LEFT JOIN  
+Subqueries  
+CASE WHEN  
+Filtering NULL values  
+Date functions (YEAR, DATEADD)  
 
-SELECT, FROM, WHERE
+**ES**  
+SELECT, FROM, WHERE  
+Operadores lógicos (AND, OR)  
+Búsqueda por patrones con LIKE  
+ORDER BY  
+Funciones agregadas (COUNT, MIN, MAX)  
+GROUP BY y HAVING  
+Alias y columnas calculadas  
+INNER JOIN  
+LEFT JOIN  
+Subconsultas  
+CASE WHEN  
+Filtrado de valores NULL  
+Funciones de fecha (YEAR, DATEADD)  
 
-Logical operators (AND, OR)
+---
 
-Pattern matching with LIKE
-
-ORDER BY
-
-Aggregate functions (COUNT, MIN, MAX)
-
-GROUP BY and HAVING
-
-Aliases and calculated columns
-
-INNER JOIN
-
-ES
-
-SELECT, FROM, WHERE
-
-Operadores lógicos (AND, OR)
-
-Búsqueda por patrones con LIKE
-
-ORDER BY
-
-Funciones agregadas (COUNT, MIN, MAX)
-
-GROUP BY y HAVING
-
-Alias y columnas calculadas
-
-INNER JOIN
 ## 🧾 DISCLAIMER / AVISO
 
-EN
-
-This repository does not reproduce or distribute the content of the book. It contains only my own solutions and learning notes based on the exercises proposed by the author.
-All rights to the original material belong to Sylvia Moestl Vasilik.
+**EN**  
+This repository does not reproduce or distribute the content of the book. It contains only my own solutions and learning notes based on the exercises proposed by the author.  
+All rights to the original material belong to Sylvia Moestl Vasilik.  
 This project is for educational and professional portfolio purposes only.
 
-ES
-
-Este repositorio no reproduce ni distribuye el contenido del libro. Contiene únicamente mis soluciones y apuntes personales basados en los ejercicios propuestos por la autora.
-Todos los derechos del material original pertenecen a Sylvia Moestl Vasilik.
+**ES**  
+Este repositorio no reproduce ni distribuye el contenido del libro. Contiene únicamente mis soluciones y apuntes personales basados en los ejercicios propuestos por la autora.  
+Todos los derechos del material original pertenecen a Sylvia Moestl Vasilik.  
 Este proyecto tiene fines educativos y de portafolio profesional.
+
 ## 👤 AUTHOR / AUTOR
 
 **Cristian Salinas** — Industrial Engineer & Data Analyst  
@@ -181,6 +168,7 @@ Este proyecto tiene fines educativos y de portafolio profesional.
 🔗 **LinkedIn:** [https://www.linkedin.com/in/ingcrissalinas/](https://www.linkedin.com/in/ingcrissalinas/)  
 🌐 **Portfolio:** [https://www.ingsalinas.com/](https://www.ingsalinas.com/)  
 📂 **GitHub:** [https://github.com/Crisfunky01](https://github.com/Crisfunky01)
+
 
 
 
