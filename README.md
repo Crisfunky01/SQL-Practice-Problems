@@ -69,7 +69,7 @@ Below are the main SQL scripts included (or planned) for this repository:
 | File | Description |
 |------|-------------|
 | `assets/SQLPracticeProblems_SQLServer_PracticeDBSetup.sql` | Script to create and configure the Northwind practice database in SQL Server. |
-| `assets/Introductory Problems.sql` | Solutions for introductory-level exercises (1–19). |
+| `assets/Introductory Problems.sql` |  ✅ CompletedSolutions for introductory-level exercises (1–19). |
 | `assets/Intermediate Problems.sql` | ✅ Completed — contains intermediate-level problems (20–31). |
 | `assets/Advanced Problems.sql` | 🔄 In progress — contains advanced-level problems (32–57). |
 
@@ -79,7 +79,7 @@ A continuación se detallan los principales archivos SQL incluidos (o planificad
 | Archivo | Descripción |
 |----------|-------------|
 | `assets/SQLPracticeProblems_SQLServer_PracticeDBSetup.sql` | Script para crear y configurar la base de datos Northwind de práctica en SQL Server. |
-| `assets/Introductory Problems.sql` | Soluciones de los ejercicios de nivel introductorio (1–19). |
+| `assets/Introductory Problems.sql` | ✅ CompletedSoluciones de los ejercicios de nivel introductorio (1–19). |
 | `assets/Intermediate Problems.sql` | ✅ Completado — contiene los ejercicios de nivel intermedio (20–31). |
 | `assets/Advanced Problems.sql` | 🔄 En progreso — contiene los ejercicios de nivel avanzado (32–57). |
 
@@ -102,13 +102,13 @@ A continuación se detallan los principales archivos SQL incluidos (o planificad
 ## 📚 CONTENT / CONTENIDO
 
 **EN**  
-- `basic_queries.sql` → Solutions for introductory problems (1–19)  
+- `basic_queries.sql` → ✅ Completed Solutions for introductory problems (1–19)  
 - `intermediate_queries.sql` → ✅ Completed (20–31)  
 - `advanced_queries.sql` → 🔄 In progress  
 - `/assets/preview.png` → Optional screenshot of SQL results  
 
 **ES**  
-- `basic_queries.sql` → Soluciones para los ejercicios introductorios (1–19)  
+- `basic_queries.sql` → ✅ Completed Soluciones para los ejercicios introductorios (1–19)  
 - `intermediate_queries.sql` → ✅ Completado (20–31)  
 - `advanced_queries.sql` → 🔄 En progreso  
 - `/assets/preview.png` → Captura opcional de resultados SQL  
@@ -168,6 +168,7 @@ Este proyecto tiene fines educativos y de portafolio profesional.
 🔗 **LinkedIn:** [https://www.linkedin.com/in/ingcrissalinas/](https://www.linkedin.com/in/ingcrissalinas/)  
 🌐 **Portfolio:** [https://www.ingsalinas.com/](https://www.ingsalinas.com/)  
 📂 **GitHub:** [https://github.com/Crisfunky01](https://github.com/Crisfunky01)
+
 
 
 
