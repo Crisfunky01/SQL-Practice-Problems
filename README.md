@@ -1,10 +1,10 @@
-<h1 align="center">📘 SQL Practice Problems – Solutions Repository (Introductory Level)</h1>
-<h3 align="center">Repositorio de Soluciones SQL Practice Problems – Nivel Introductorio e Intermedio</h3>
+<h1 align="center">📘 SQL Practice Problems – Solutions Repository (Introductory & Intermediate Levels)</h1>
+<h3 align="center">Repositorio de Soluciones SQL Practice Problems – Niveles Introductorio e Intermedio</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/T%20SQL-red?style=flat&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Level-Introductory-yellow?style=flat&logo=bookstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Level-Intro%20%2B%20Intermediate-yellow?style=flat&logo=bookstack&logoColor=white"/>
   <img src="https://img.shields.io/badge/EN%20&%20ES-Bilingual-brightgreen?style=flat&logo=translate&logoColor=white"/>
   <img src="https://img.shields.io/badge/last%20commit-november-brightgreen?style=flat"/>
   <img src="https://img.shields.io/badge/repo%20size-2.3%20MiB-blue?style=flat"/>
@@ -14,27 +14,43 @@
   <img src="assets/SQL%20Practice%20Problem.gif" alt="SQL Practice Problems Preview" width="700"/>
 </p>
 
+---
+
 ## 🧩 DESCRIPTION / DESCRIPCIÓN
 
-EN
+### EN
 
-This repository contains my personal solutions to the introductory exercises from the book SQL Practice Problems by Sylvia Moestl Vasilik.
-The book includes a total of 57 real-world SQL challenges ranging from beginner to advanced level, designed to build strong analytical and querying skills through a hands-on, problem-solving approach.
+This repository contains my personal solutions to the **introductory and intermediate-level exercises** from the book *SQL Practice Problems* by Sylvia Moestl Vasilik.
 
-Currently, this repository includes the first 19 introductory problems, covering core SQL concepts such as selection, filtering, sorting, aggregation, grouping, and joins.
-Each query is written, tested, and documented with bilingual notes to strengthen understanding and professional application of SQL.
+The book includes a total of **57 real-world SQL challenges**, from beginner to advanced, designed to build strong analytical and querying skills through hands‑on practice.
 
-The intermediate and advanced exercises are in progress and will be added as they are completed.
+🔹 **Current progress:**  
+- ✔️ **Introductory level completed (Problems 1–19)**  
+- ✔️ **Intermediate level completed (Problems 20–31)**  
+- 🔄 Advanced problems in progress  
 
-ES
+These solutions cover core SQL topics such as selection, filtering, sorting, grouping, aggregation, joins, subqueries, and conditional logic.  
+Each query is written, tested, and documented with bilingual notes (EN/ES) to reinforce understanding and professional application.
 
-Este repositorio contiene mis soluciones personales a los ejercicios introductorios del libro SQL Practice Problems de Sylvia Moestl Vasilik.
-El libro incluye un total de 57 desafíos SQL de la vida real, que abarcan desde el nivel inicial hasta el avanzado, diseñados para desarrollar habilidades sólidas en análisis y escritura de consultas mediante un enfoque práctico.
+Upcoming updates will include the remaining advanced exercises and optimization notes.
 
-Actualmente, este repositorio incluye los primeros 19 ejercicios introductorios, que cubren los conceptos esenciales de SQL como selección, filtrado, ordenamiento, agregación, agrupación y uniones.
-Cada consulta está escrita, probada y documentada con notas bilingües para reforzar la comprensión y la aplicación profesional de SQL.
+---
 
-Los ejercicios de nivel intermedio y avanzado están en proceso y serán añadidos a medida que se completen.
+### ES
+
+Este repositorio contiene mis soluciones personales a los ejercicios de **nivel introductorio e intermedio** del libro *SQL Practice Problems* de Sylvia Moestl Vasilik.
+
+El libro incluye un total de **57 desafíos SQL de la vida real**, desde nivel inicial hasta avanzado, diseñados para desarrollar habilidades sólidas en consultas y análisis mediante práctica directa.
+
+🔹 **Progreso actual:**  
+- ✔️ **Nivel introductorio completado (Ejercicios 1–19)**  
+- ✔️ **Nivel intermedio completado (Ejercicios 20–31)**  
+- 🔄 Nivel avanzado en desarrollo  
+
+Estas soluciones cubren los conceptos esenciales de SQL como selección, filtrado, ordenamiento, agregación, agrupación, uniones, subconsultas y lógica condicional.  
+Cada consulta está escrita, probada y documentada con notas bilingües (ES/EN) para reforzar la comprensión y su aplicación profesional.
+
+Las próximas actualizaciones incluirán los ejercicios del nivel avanzado y notas de optimización.
 
 ---
 
@@ -44,7 +60,6 @@ Los ejercicios de nivel intermedio y avanzado están en proceso y serán añadid
 
 ---
 
----
 
 ### 🗂️ FILES / ARCHIVOS
 
@@ -166,6 +181,7 @@ Este proyecto tiene fines educativos y de portafolio profesional.
 🔗 **LinkedIn:** [https://www.linkedin.com/in/ingcrissalinas/](https://www.linkedin.com/in/ingcrissalinas/)  
 🌐 **Portfolio:** [https://www.ingsalinas.com/](https://www.ingsalinas.com/)  
 📂 **GitHub:** [https://github.com/Crisfunky01](https://github.com/Crisfunky01)
+
 
 
 
