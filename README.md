@@ -1,5 +1,5 @@
 <h1 align="center">📘 SQL Practice Problems – Solutions Repository (Introductory Level)</h1>
-<h3 align="center">Repositorio de Soluciones SQL Practice Problems – Nivel Introductorio</h3>
+<h3 align="center">Repositorio de Soluciones SQL Practice Problems – Nivel Introductorio e Intermedio</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
@@ -166,6 +166,7 @@ Este proyecto tiene fines educativos y de portafolio profesional.
 🔗 **LinkedIn:** [https://www.linkedin.com/in/ingcrissalinas/](https://www.linkedin.com/in/ingcrissalinas/)  
 🌐 **Portfolio:** [https://www.ingsalinas.com/](https://www.ingsalinas.com/)  
 📂 **GitHub:** [https://github.com/Crisfunky01](https://github.com/Crisfunky01)
+
 
 
 
